@@ -1,2 +1,45 @@
-# f4a1f1ad-docker-kubernetes-bookmark-m
-You're juggling 15 Docker and Kubernetes tabs across your browser, losing critical kubectl commands and best practices between projects. Stop wasting 10+ hours per week hunting for that one networking config or YAML snippet you know you've seen before.  The Docker &amp; Kubernetes Bookmark Manager and Knowledge Base Chrome Extension consolidates every
+# Docker & Kubernetes Bookmark Manager and Knowledge Base Chrome Extension
+
+> Extension for Docker Kubernetes
+
+You're juggling 15 Docker and Kubernetes tabs across your browser, losing critical kubectl commands and best practices between projects. Stop wasting 10+ hours per week hunting for that one networking config or YAML snippet you know you've seen before.
+
+The Docker & Kubernetes Bookmark Manager and Knowledge Base Chrome Extension consolidates...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy on Gumroad](https://wealthybot8.gumroad.com/l/asxums)** — Instant download, lifetime updates
+
+**[Buy Now (Stripe)](https://buy.stripe.com/bJebJ18v55wgf44bzScZu0T)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://wealthybot8.gumroad.com/l/asxums)
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
